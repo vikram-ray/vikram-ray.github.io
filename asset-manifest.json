@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "rayvikram.github.io/static/css/main.87ab91d7.chunk.css",
+    "main.js": "rayvikram.github.io/static/js/main.78788567.chunk.js",
+    "main.js.map": "rayvikram.github.io/static/js/main.78788567.chunk.js.map",
+    "runtime-main.js": "rayvikram.github.io/static/js/runtime-main.90a3bfc2.js",
+    "runtime-main.js.map": "rayvikram.github.io/static/js/runtime-main.90a3bfc2.js.map",
+    "static/js/2.156bb72a.chunk.js": "rayvikram.github.io/static/js/2.156bb72a.chunk.js",
+    "static/js/2.156bb72a.chunk.js.map": "rayvikram.github.io/static/js/2.156bb72a.chunk.js.map",
+    "static/css/3.f9898e9a.chunk.css": "rayvikram.github.io/static/css/3.f9898e9a.chunk.css",
+    "static/js/3.60c11a40.chunk.js": "rayvikram.github.io/static/js/3.60c11a40.chunk.js",
+    "static/js/3.60c11a40.chunk.js.map": "rayvikram.github.io/static/js/3.60c11a40.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "rayvikram.github.io/static/css/4.54df59d4.chunk.css",
+    "static/js/4.a890e768.chunk.js": "rayvikram.github.io/static/js/4.a890e768.chunk.js",
+    "static/js/4.a890e768.chunk.js.map": "rayvikram.github.io/static/js/4.a890e768.chunk.js.map",
+    "index.html": "rayvikram.github.io/index.html",
+    "precache-manifest.fcac2991f34de7bea0ed63b1c1fea183.js": "rayvikram.github.io/precache-manifest.fcac2991f34de7bea0ed63b1c1fea183.js",
+    "service-worker.js": "rayvikram.github.io/service-worker.js",
+    "static/css/3.f9898e9a.chunk.css.map": "rayvikram.github.io/static/css/3.f9898e9a.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "rayvikram.github.io/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.87ab91d7.chunk.css.map": "rayvikram.github.io/static/css/main.87ab91d7.chunk.css.map",
+    "static/media/index.css": "rayvikram.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.webp": "rayvikram.github.io/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "rayvikram.github.io/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "rayvikram.github.io/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "rayvikram.github.io/static/media/skill.34409398.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90a3bfc2.js",
+    "static/js/2.156bb72a.chunk.js",
+    "static/css/main.87ab91d7.chunk.css",
+    "static/js/main.78788567.chunk.js"
+  ]
+}
