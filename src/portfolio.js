@@ -10,8 +10,8 @@ const TopMenu = [
   // remove experience if you are fresher
   {id: '#experience', name: 'Work Experiences'},
   // {id: '#blog', name: 'Blog'},
-  {id: '#opensource', name: 'Open Source'},
   {id: '#projects', name: 'Projects'},
+  {id: '#opensource', name: 'Open Source'},
   {id: '#tools', name: 'Tools'},
   {id: '#achievements', name: 'Achievements'},
   {id: '#contact', name: 'Contact Me'},
@@ -111,7 +111,7 @@ const skillsSection = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Backend",
@@ -189,6 +189,14 @@ const bigProjectSection = {
       ]
     },
     {
+      title: "Node Blog",
+      subtitle: "A blog created with NodeJS and EJS",
+      footerLink: [
+        { name: "Website", url: "https://blogvikram.herokuapp.com/" },
+        { name: "GitHub", url: "https://github.com/rayvikram/node-blog" },
+      ]
+    },
+    {
       title: "LetStylus",
       subtitle: "Ecommerce",
       // image: require("./assets/images/codeInLogo.webp"),
@@ -196,15 +204,7 @@ const bigProjectSection = {
         { name: "Website", url: "https://letstylus.com/" },
       ]
     },
-    {
-      title: "GitHub Visualizer",
-      subtitle: "View all details of a GitHub profile in one place",
-      // image: require("./assets/images/googleAssistantLogo.webp"),
-      footerLink: [
-        { name: "Website", url: "https://rayvikram.github.io/github-visualizer/" },
-        { name: "GitHub", url: "https://github.com/rayvikram/github-visualizer" },
-      ]
-    }
+    
   ]
 };
 
@@ -215,18 +215,20 @@ const toolsSection = {
   subtitle: "Some Cool Tools and Games that I have build !",
   cards: [
     {
+      title: "GitHub Visualizer",
+      subtitle: "View all details of a GitHub profile in one place",
+      // image: require("./assets/images/googleAssistantLogo.webp"),
+      footerLink: [
+        { name: "Website", url: "https://rayvikram.github.io/github-visualizer/" },
+        { name: "GitHub", url: "https://github.com/rayvikram/github-visualizer" },
+      ]
+    },
+    {
       title: "React Notepad",
       subtitle: "Notepad created with React",
       footerLink: [
         { name: "Website", url: "https://rayvikram.github.io/notepad/" },
         { name: "GitHub", url: "https://github.com/rayvikram/notepad" },
-      ]
-    },{
-      title: "Node Blog",
-      subtitle: "A blog created with NodeJS and EJS",
-      footerLink: [
-        { name: "Website", url: "https://blogvikram.herokuapp.com/" },
-        { name: "GitHub", url: "https://github.com/rayvikram/node-blog" },
       ]
     },
     {
