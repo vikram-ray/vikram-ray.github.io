@@ -22,7 +22,7 @@ const greeting = {
   username: "Vikram Ray",
   title: "Hi all, I'm Vikram",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Django and some other cool libraries and frameworks."),
-  resumeLink: "https://docs.google.com/document/d/1UN-DXwvxtP8hpca88zHk0-RWIb1ByqQUmsxMR83XJwY/edit?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1IB8BTAeFSCuc3VLKU9YTxSQScO9OCLEt/view?usp=sharing"
 };
 
 // setting title
