@@ -138,7 +138,7 @@ const workExperiences = {
       role: "Full Stack Developer",
       company: "Ezedox",
       companylogo: require("./assets/images/ezedox.png"),
-      date: "June 2018 – Present",
+      date: "June 2019 – October 2020",
       desc: "Working on ReactJS | Redux | Django | Django-rest-framwork to develop UI and REST API with our awsome team",
       descBullets: [
         "Build UI of ezedox-inventory with ReactJS with awsome state manager Redux",
@@ -147,20 +147,13 @@ const workExperiences = {
         "UI and Backend of customizable Roles/Group by extending django-groups"
       ]
     },
-    // {
-    //   role: "Front-End Developer",   
-    //   company: "Quora",
-    //   companylogo: require("./assets/images/quoraLogo.png"),
-    //   date: "May 2017 – May 2018",
-    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    // },
-    // {
-    //   role: "Software Engineer Intern",  
-    //   company: "Airbnb",
-    //   companylogo: require("./assets/images/airbnbLogo.png"),
-    //   date: "Jan 2015 – Sep 2015",
-    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    // },
+    {
+      role: "Assistant Software Developer",   
+      company: "Firecompass",
+      companylogo: require("./assets/images/fc.png"),
+      date: "October 2020 – Present",
+      desc: "Working on ReactJS | Redux | Django | FastAPI | Dockers | Many more ..."
+    }
   ]
 };
 
