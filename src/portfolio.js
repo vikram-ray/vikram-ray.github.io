@@ -1,5 +1,4 @@
-﻿
-/* Change this file to get your personal Portfolio */
+﻿/* Change this file to get your personal Portfolio */
 
 // Your Summary And Greeting Section
 
@@ -33,8 +32,8 @@ document.title = `${greeting.username} Portfolio`
 const socialMediaLinks = {
 
   github: "https://github.com/rayvikram",
-  linkedin: "https://www.linkedin.com/in/vikramray/",
-  gmail: "vik8876@gmail.com",
+  linkedin: "https://www.linkedin.com/in/vikram-ray/",
+  gmail: "thevikramray@gmail.com",
   facebook: "facebook.com/thevikramray",
 
   // gitlab: "gillab-link",
@@ -152,7 +151,14 @@ const workExperiences = {
       company: "Firecompass",
       companylogo: require("./assets/images/fc.png"),
       date: "October 2020 – Present",
-      desc: "Working on ReactJS | Redux | Django | FastAPI | Dockers | Many more ..."
+      desc: "Working on ReactJS | Redux | Django | FastAPI | Dockers | Many more ...",
+      descBullets: [
+        "Working mainly on Microservices with React, Django, FastAPI & Firebase as the main stack",
+        "Reporting system with scheduling and supporting excel, pdf, etc as a final result",
+        "Optimized SQL/ORM Query, Segregated APIs to increase performance by 50%",
+        "Created 5+ microservices for different features",
+        "Created 3+ python libraries to be used in other services to increase code reusability"
+      ]
     }
   ]
 };
