@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c08271ca011205994d681961706f88b4",
+    "revision": "f2421c11d31c219510caae339af3b63c",
     "url": "/index.html"
   },
   {
-    "revision": "ef6529ead26fbf34db3f",
+    "revision": "1da6d888370885693580",
     "url": "/static/css/3.f9898e9a.chunk.css"
   },
   {
-    "revision": "e3ca01b61c8cac405f04",
+    "revision": "5176bf15a82d01b9bb23",
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "0ebd3a08b911a88d0ca1",
-    "url": "/static/css/main.113ee8d7.chunk.css"
+    "revision": "1852706a74b488626daf",
+    "url": "/static/css/main.94c425a1.chunk.css"
   },
   {
-    "revision": "34dda8cfce0e36f024b1",
-    "url": "/static/js/2.06b1c892.chunk.js"
+    "revision": "418439d4ad918de16d28",
+    "url": "/static/js/2.bca473fe.chunk.js"
   },
   {
-    "revision": "ef6529ead26fbf34db3f",
-    "url": "/static/js/3.f50e0f32.chunk.js"
+    "revision": "1da6d888370885693580",
+    "url": "/static/js/3.bb695db3.chunk.js"
   },
   {
-    "revision": "e3ca01b61c8cac405f04",
-    "url": "/static/js/4.1453612c.chunk.js"
+    "revision": "5176bf15a82d01b9bb23",
+    "url": "/static/js/4.9abe27de.chunk.js"
   },
   {
-    "revision": "0ebd3a08b911a88d0ca1",
-    "url": "/static/js/main.ba700684.chunk.js"
+    "revision": "1852706a74b488626daf",
+    "url": "/static/js/main.dfe23a1e.chunk.js"
   },
   {
-    "revision": "a18c02f366c7f74fad07",
-    "url": "/static/js/runtime-main.acd2f317.js"
+    "revision": "cfc4ed0ca556e8ef3515",
+    "url": "/static/js/runtime-main.9d84fd77.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "ac8abd2e2be843ed21f824059f8b5b5a",
+    "url": "/static/media/bcg.ac8abd2e.webp"
   },
   {
     "revision": "68e841388612be0c5143e2932fb77d4f",
