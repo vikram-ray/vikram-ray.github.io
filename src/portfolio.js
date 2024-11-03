@@ -134,11 +134,34 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Senior Software Developer",
+      company: "SciSpace",
+      companylogo: require("./assets/images/scispace.png"),
+      date: "April 2022 - Present",
+      desc: "I was one of the first five core engineer for SciSpace. Working on NextJS, Django, Postgres, ElasticSearch and tons of LLMs integrations",
+      descBullets: [
+        "Build and released the Scispace Copilot and Library frontend in 1.5 week using react and NextJS",
+        "Single handedly build full stack features like AI Detector, Scispace Notebook with AI Actions, and many other projects",
+        "Worked with 4 other developer to release the initial version of SciSpace which now have 5M ARR and growing" 
+      ]
+    },
+    {
+      role: "Software Developer",
+      company: "BCG",
+      companylogo: require("./assets/images/bcg.webp"),
+      date: "January 2022 - March 2022",
+      desc: "Working on ReactJS | Django | Django-rest-framwork",
+      descBullets: [
+        "Helped in migrating older backend code in NodeJS to Django",
+        "Worked closly with Data Engineers to resolve customers query"
+      ]
+    },
+    {
       role: "Full Stack Developer",
       company: "Ezedox",
       companylogo: require("./assets/images/ezedox.png"),
       date: "June 2019 – October 2020",
-      desc: "Working on ReactJS | Redux | Django | Django-rest-framwork to develop UI and REST API with our awsome team",
+      desc: "Worked on ReactJS | Redux | Django | Django-rest-framwork to develop UI and REST API with our awsome team",
       descBullets: [
         "Build UI of ezedox-inventory with ReactJS with awsome state manager Redux",
         "Developed Backend and UI of realtime Notifications and Updates with django-channels and websocket",
@@ -150,7 +173,7 @@ const workExperiences = {
       role: "Assistant Software Developer",   
       company: "Firecompass",
       companylogo: require("./assets/images/fc.png"),
-      date: "October 2020 – Present",
+      date: "October 2020 - December 2021",
       desc: "Working on ReactJS | Redux | Django | FastAPI | Dockers | Many more ...",
       descBullets: [
         "Working mainly on Microservices with React, Django, FastAPI & Firebase as the main stack",
